@@ -1,0 +1,8 @@
+{
+  "name": "code-pet",
+  "description": "작업을 함께 해주는 코드 펫 훅 모음: 날씨 인사, 에러·해결 팝업, 저장 토스트, 답변 완료 알림창과 토큰 사용량 (Windows 전용)",
+  "version": "1.0.0",
+  "author": {
+    "name": "sayluaa"
+  }
+}
